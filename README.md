@@ -43,3 +43,10 @@
 ## Prueba 8
 ### Paso
 <img src="/screenshots/Paso-8.png" alt="...">
+
+## Funcionamiento de aplicación
+<img src="/screenshots/captura_tanda_dolorena1.jpeg" alt="...">
+
+<img src="/screenshots/captura_tanda_dolorena2.jpeg" alt="...">
+
+<img src="/screenshots/captura_tanda_dolorena3.jpeg" alt="...">
